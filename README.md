@@ -1,6 +1,6 @@
 # hornetq-clj
 
-A collection of minimal wrappers for [hotnetq](http://www.jboss.org/hornetq) server.
+A collection of minimal wrappers for [hornetq](http://www.jboss.org/hornetq) server.
 
 <table>
   <thead><tr><th>project</th><th>descritption</th></tr></thead>
